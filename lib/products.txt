@@ -1,0 +1,11 @@
+Carousel slider:
+    "https://i.pinimg.com/736x/6b/91/90/6b91908898d9201678f8c321e087252f.jpg",
+    "https://wallpaperaccess.com/full/1121997.jpg",
+    "https://avante.biz/wp-content/uploads/Ysk-ygc/Ysk-ygc17.jpg",
+    "https://www.hdwallpapers.in/download/brown_hair_dress_short_hair_hd_girl_anime-1366x768.jpg"
+
+proBooks:
+    "https://kenosa.vn/app_images/product/2011/2/24/doraemon-truyen-ngan-tap-7-16417-500-16417.jpg"
+    "https://i.pinimg.com/736x/d3/58/62/d3586205ce95952e9b406435f018362c--conan.jpg"
+    "https://www.manga-news.com/public/images/series/Blue-Flag-1-kurokawa.jpg"
+    "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1538255667l/33023053._SY475_.jpg"
